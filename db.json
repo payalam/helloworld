@@ -1,34 +1,11 @@
-
- [
-        {
-            "relayId": 321,
-            "usage": "Boiler",
-            "relayNr": 1,
-            "relayType": "RELAY",
-            "relayState": "OFF",
-            "reverted": false,
-            "relayStateTime": 1584443026476,
-            "deviceMeterId": 220,
-            "meterConnectionId": 441,
-            "meteringPointId": 601,
-            "controlMode": null,
-            "controlModeDate": null,
-            "transitions": null
-        },
-        {
-            "relayId": 321,
-            "usage": "Boiler",
-            "relayNr": 1,
-            "relayType": "RELAY",
-            "relayState": "OFF",
-            "reverted": false,
-            "relayStateTime": 1584443026476,
-            "deviceMeterId": 220,
-            "meterConnectionId": 441,
-            "meteringPointId": 601,
-            "controlMode": null,
-            "controlModeDate": null,
-            "transitions": null
-        }
-]
-
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
