@@ -1,0 +1,18 @@
+[
+    {
+        "relayN": 6,
+        "relayType": "RELAY"
+    },
+    {
+        "relayN": 1,
+        "relayType": "RELAY"
+    },
+    {
+        "relayN": 4,
+        "relayType": "DISCONNECTOR"
+    },
+    {
+        "relayN": 5,
+        "relayType": "RELAY"
+    }
+]
