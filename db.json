@@ -1,5 +1,5 @@
-{
-"set-relay": [
+
+ [
         {
             "relayId": 321,
             "usage": "Boiler",
@@ -31,4 +31,4 @@
             "transitions": null
         }
 ]
-}
+
